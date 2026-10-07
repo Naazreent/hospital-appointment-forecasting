@@ -1,0 +1,26 @@
+{
+  "status": "completed",
+  "selected_by_validation": "ridge",
+  "config": {
+    "seed": 42,
+    "validation_start": "2016-01-01",
+    "validation_end": "2017-12-01",
+    "test_start": "2018-01-01",
+    "test_end": "2019-12-01",
+    "stress_start": "2020-01-01",
+    "interval_level": 0.9,
+    "ridge_alpha": 10.0,
+    "forest_trees": 200,
+    "forest_min_leaf": 3
+  },
+  "python": "3.12.14",
+  "versions": {
+    "pandas": "2.2.3",
+    "numpy": "2.3.5",
+    "scikit-learn": "1.8.0",
+    "matplotlib": "3.10.8"
+  },
+  "data_sha256": "d6614fffcfdd5a468657c1526cef2dde4d10cb401f99256b9ef425f45e187402",
+  "duration_seconds": 8.891972780227661,
+  "source_sha256": "d54d8957fac728000bf2a0a29e402bc03f53a3976b38c3ceac37b2c9384d01ca"
+}

@@ -1,0 +1,12 @@
+A forecast can work well for two years and still struggle when the system changes.
+
+I’ve been working on a healthcare analytics mini project using NHS England’s historical outpatient activity data. I compared five forecasting approaches using time-based validation, rather than randomly splitting the data.
+
+Ridge regression reduced mean absolute error by 19.9% compared with using the same month from the previous year on the 2018 to 2019 test period. But its error increased sharply during the 2020 stress period.
+
+That was the useful lesson for me: a good historical score doesn’t tell us everything about how a forecast behaves under disruption. The project includes reproducible code, saved forecasts, uncertainty bands and checks for future-data leakage.
+
+These figures measure recorded first outpatient attendances, not unmet demand. This is a historical research demonstration, not a live hospital planning tool.
+
+[Add GitHub link after publication]
+#HealthcareAnalytics #DataScience #Forecasting

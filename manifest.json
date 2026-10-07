@@ -1,0 +1,15 @@
+{
+  "source_url": "https://www.england.nhs.uk/statistics/wp-content/uploads/sites/2/2020/07/MAR_Comm-Timeseries-May-20-qQ0K3.xls",
+  "source_page": "https://www.england.nhs.uk/statistics/statistical-work-areas/hospital-activity/monthly-hospital-activity/mar-",
+  "retrieved_utc": "2026-10-07T15:26:46.204000+00:00",
+  "sha256": "d6614fffcfdd5a468657c1526cef2dde4d10cb401f99256b9ef425f45e187402",
+  "period": [
+    "2008-04-01",
+    "2020-05-01"
+  ],
+  "rows": 146,
+  "target": "All 1st Outpatient Attendances (G&A)",
+  "basis": "Commissioner; England aggregate",
+  "published": "2020-07-09",
+  "terms": "NHS England copyright policy / Open Government Licence; see DATA_SOURCE.md"
+}

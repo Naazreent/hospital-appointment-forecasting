@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "Cite this software title and version; no publication implied."
+title: "Hospital Appointment Activity Forecasting"
+version: "0.1.0"
+type: software
+license: MIT
